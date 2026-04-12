@@ -8,10 +8,22 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
-# Neural-Network-Deep-Learning-
-Neural Network ( Deep Learning)
+# Neural Network ( Deep Learning)
 
-
+- L1 Introduction to Deep Learning
+- L2 (DL) Neural Networks
+- L3 NN: Intro to Neural Networks
+- L4 NN: Forward and Back propagation
+- L5 N-Layer Neural Network - 1
+- L6 N-Layer Neural Network - 2
+- L7 N-Layer Backpropagation
+- L8 TensorFlow and Keras - 1
+- L9 TensorFlow and Keras - 2
+- L10 Optimizers for NN’s
+- L11 Hyperparameter Tuning for NN’s
+- L12 Autoencoders
+- L13 Practical aspects of designing MLP’s and debugging
+- L14 Model Interpretability: LIME
 
 
 ---
