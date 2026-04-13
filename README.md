@@ -25,6 +25,12 @@
 - L13 Practical aspects of designing MLP’s and debugging
 - L14 Model Interpretability: LIME
 
+---
+
+# Meta researchers are exploring a fascinating new frontier in computing: the Neural Computer (NC). Unlike today’s AI agents that simply use existing software, this approach aims to make the model itself the actual computer. By unifying computation, memory, and interfaces into one learned runtime state, the team is working toward a future where a single set of weights can act as a fully functioning machine.  
+
+<img width="1076" height="1323" alt="image" src="https://github.com/user-attachments/assets/59d09a01-b9b8-4086-a81e-37f99e07f69c" />
+
 
 ---
 
