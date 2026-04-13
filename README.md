@@ -27,7 +27,9 @@
 
 ---
 
-# Meta researchers are exploring a fascinating new frontier in computing: the Neural Computer (NC). Unlike today’s AI agents that simply use existing software, this approach aims to make the model itself the actual computer. By unifying computation, memory, and interfaces into one learned runtime state, the team is working toward a future where a single set of weights can act as a fully functioning machine.  
+# Meta researchers are exploring a fascinating new frontier in computing: the Neural Computer (NC). Unlike today’s AI agents that simply use existing software, this approach aims to make the model itself the actual computer. By unifying computation, memory, and interfaces into one learned runtime state, the team is working toward a future where a single set of weights can act as a fully functioning machine. 
+
+- [ Meta researchers Neural Computer (NC) ](https://github.com/Ratnesh-181998/Neural-Network-Deep-Learning/blob/main/Neural%20Computer%20_compressed.pdf)
 
 <img width="1076" height="1323" alt="image" src="https://github.com/user-attachments/assets/59d09a01-b9b8-4086-a81e-37f99e07f69c" />
 
